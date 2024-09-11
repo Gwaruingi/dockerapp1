@@ -19,8 +19,8 @@ jobs:
       # Checkout the code as the first step.
       - checkout
       - run:
-          name: "Say hello"
-          command: "echo Hello, World!"
+          name: "Say hello salimia Gen Z"
+          command: "echo Hello, World! Gen Z wameangusha finance bill"
 
 # Orchestrate jobs using workflows
 # Orchestrate jobs using workflows
